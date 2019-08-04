@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An application that will require user log-in. This app will keep track of income and expenses. You will enter bills, it will keep track of your bills and it will show which portion of your income is allocated for each bill, then showing how much income is left over.
 ### Features
-Include Features here
+Income side, Expense side, Bill side with due dates.
 ### Technologies
-Include Technologies here
+Java
+Spring frame work
+html
+css
+javascript
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Java
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/FnfQkNLq/05e447ba4ec21f0eac1b1a84c94d162a/expense-income-project
